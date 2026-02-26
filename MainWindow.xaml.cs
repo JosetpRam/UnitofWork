@@ -19,6 +19,7 @@ namespace UnitofWork
         public MainWindow()
         {
             InitializeComponent();
+            ////Aqui es donde haríamos la conexión a la base de datos y cargaríamos los datos en la interfaz de usuario
         }
     }
 }
